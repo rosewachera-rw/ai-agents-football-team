@@ -20,3 +20,9 @@ Below are the screenshots of the project and live game/hackathon match:
 
   <img width="1891" height="862" alt="Screenshot (2220)" src="https://github.com/user-attachments/assets/fb323302-99f0-40a6-9d98-51afe3797eb9" />
 
+- First win after the AI Agents learnt from their mistakes, this is an image from the live match
+
+  <img width="1880" height="854" alt="Screenshot (2159)" src="https://github.com/user-attachments/assets/74883cd9-393e-4da8-83d2-fdbd83b13ac8" />
+
+
+  
