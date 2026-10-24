@@ -16,3 +16,7 @@ Below are the screenshots of the project and live game/hackathon match:
 
   <img width="1895" height="846" alt="Screenshot (2104)" src="https://github.com/user-attachments/assets/e8bee55f-aabe-451a-8b50-6890971ef357" />
 
+-  Agentic Football Cup my team line-up
+
+  <img width="1891" height="862" alt="Screenshot (2220)" src="https://github.com/user-attachments/assets/fb323302-99f0-40a6-9d98-51afe3797eb9" />
+
