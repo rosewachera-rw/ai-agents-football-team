@@ -11,4 +11,8 @@ Toolset used to build *production* agentic systems today. Some of the tools used
 
 The purpose of utilizing these tools is to have hands-on experience building agentic solutions that can be applied to any domain including cybersecurity.
 
+Below are the screenshots of the project and live game/hackathon match: 
+- Amazon BedRock AgentCore on the AWS Management Console showing a list of deployed harnesses
+
+  <img width="1895" height="846" alt="Screenshot (2104)" src="https://github.com/user-attachments/assets/e8bee55f-aabe-451a-8b50-6890971ef357" />
 
