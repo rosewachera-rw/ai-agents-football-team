@@ -1,5 +1,4 @@
 #AWS Agentic Football Cup EMEA ECT Hackathon
-
 AI Agent Football Team participated in the AWS EMEA ECT Hackathon as part of the AWS Agentic Football Cup. This is a flow of the code, prompts and AWS services used to *build the AI agents*.
 
 Toolset used to build *production* agentic systems today. Some of the tools used:
