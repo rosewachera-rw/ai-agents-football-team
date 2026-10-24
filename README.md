@@ -7,5 +7,6 @@ Toolset used to build production agentic systems today. Some of the tools used:
     - Strands Agents SDK: An open-source framework for building agents with minimal boilerplate
     - Kiro: An agentic IDE that understands your project and helps you build, debug, and iterate on agents through natural conversation
 
-The purpose of utilizing these tools is to have hands-on experience building agentic solutions that can be applied to any domain.
+The purpose of utilizing these tools is to have hands-on experience building agentic solutions that can be applied to any domain including cybersecurity.
+
 
