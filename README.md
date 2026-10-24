@@ -24,5 +24,9 @@ Below are the screenshots of the project and live game/hackathon match:
 
   <img width="1880" height="854" alt="Screenshot (2159)" src="https://github.com/user-attachments/assets/74883cd9-393e-4da8-83d2-fdbd83b13ac8" />
 
+- Configured short term memory to ensure better performance as the game progresses, leading to a 1-2 win
+
+  <img width="1877" height="849" alt="Screenshot (2180)" src="https://github.com/user-attachments/assets/d91339a4-3bee-4418-9dc7-ed7335b9f1ed" />
+
 
   
