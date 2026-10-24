@@ -18,7 +18,7 @@ Below are the screenshots of the project and live game/hackathon match:
 
 -  Agentic Football Cup my team line-up
 
-  <img width="1891" height="862" alt="Screenshot (2220)" src="https://github.com/user-attachments/assets/fb323302-99f0-40a6-9d98-51afe3797eb9" />
+   <img width="1891" height="862" alt="Screenshot (2220)" src="https://github.com/user-attachments/assets/fb323302-99f0-40a6-9d98-51afe3797eb9" />
 
 - First win after the AI Agents learnt from their mistakes, this is an image from the live match
 
